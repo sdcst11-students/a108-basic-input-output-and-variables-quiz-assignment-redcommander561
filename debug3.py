@@ -4,4 +4,6 @@ Debug this program so that it runs
 """
 
 x = 2
-Print(x)
+print(x)
+
+#print capitalized
